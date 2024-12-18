@@ -1,7 +1,3 @@
 {
-  "users" {
-      {
-      "password": "vyren-md"
-     }
-   }
+  key: "pas1"
 }
